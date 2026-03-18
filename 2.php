@@ -21,5 +21,3 @@ $max = $sa >= $sb
     : ($sb >= $sc ? $sb : $sc);
 
 echo "Максимум: $max\n";
-
-?>

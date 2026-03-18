@@ -15,5 +15,3 @@ $net = round($income - $tax, 2);
 echo "Доход:    $income\n";
 echo "Налог:    $tax\n";
 echo "На руки:  $net\n";
-
-?>
